@@ -9,7 +9,14 @@ Focused on delivering clean architecture, production-ready automation, and cloud
 - 📧 **Email:** divineobido64@gmail.com
 
 ### 🧰 Tech Stack  
-AWS • Terraform • Docker • GitHub Actions • Linux • Python • Bash
+• AWS
+• Terraform 
+• Docker 
+• GitHub Actions 
+• Linux  
+• Python  
+• Bash
+• Git
 
 ### 👩‍💻 About Me  
 I am exploring cloud automation, DevOps engineering, and infrastructure security.  
