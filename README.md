@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Divine-cell
-- 👀 I’m interested in building my career as a full stack developer
-- 🌱 I’m currently learning frontend development 
-- 💞️ I’m looking to collaborate with other developers to build and establish myself as a web developer 
-- 📫 How to reach me divineobido64@gamil.com
+# 👋 Hi, I'm Divine Obido  
+### Cloud & DevOps Engineer
 
-<!---
-Divine-cell/Divine-cell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build reliable, automated, and secure cloud infrastructures using AWS, Terraform, Docker, and CI/CD.  
+Focused on delivering clean architecture, production-ready automation, and cloud security best practices.
+
+---
+
+### 🌐 Links  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/divine-obido-a7b245234/
+- 📧 **Email:** divineobido64@gmail.com
+
+---
+
+### 🧰 Tech Stack  
+AWS • Terraform • Docker • GitHub Actions • Linux • Python • Bash
+
+---
+
+### 👩‍💻 About Me  
+I am exploring cloud automation, DevOps engineering, and infrastructure security.  
+Always improving, always building.
+
