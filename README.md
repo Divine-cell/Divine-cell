@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Divine Obido  
-### Cloud & DevOps Engineer
+**Cloud & DevOps Engineer** passionate about building scalable, secure, and automated infrastructure solutions.
 
-I build reliable, automated, and secure cloud infrastructures using AWS, Terraform, Docker, and CI/CD.  
-Focused on delivering clean architecture, production-ready automation, and cloud security best practices.
+## 🚀 What I Do
+- Design and implement cloud infrastructure using Infrastructure as Code (Terraform)
+- Build CI/CD pipelines and automation workflows
+- Implement cloud security best practices and monitoring solutions
+- Work with AWS services to create serverless and scalable architectures
 
-### 🌐 Links  
+### 🌐 Let's Connect 
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/divine-obido-a7b245234/
 - 📧 **Email:** divineobido64@gmail.com
 
@@ -18,7 +21,6 @@ Focused on delivering clean architecture, production-ready automation, and cloud
 • Bash
 • Git
 
-### 👩‍💻 About Me  
-I am exploring cloud automation, DevOps engineering, and infrastructure security.  
-Always improving, always building.
+### 👩‍💻 Current Focus 
+Building production-ready cloud solutions with a focus on security, automation, and cost optimization.
 
