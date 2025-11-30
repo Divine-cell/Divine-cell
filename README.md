@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Divine Obido  
 **Cloud & DevOps Engineer** passionate about building scalable, secure, and automated infrastructure solutions.
 
-## 🚀 What I Do
+### 🚀 What I Do
 - Design and implement cloud infrastructure using Infrastructure as Code (Terraform)
 - Build CI/CD pipelines and automation workflows
 - Implement cloud security best practices and monitoring solutions
